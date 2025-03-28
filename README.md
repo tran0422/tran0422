@@ -10,7 +10,7 @@ I enjoy making beautiful and functional frontend.
 * ✉️  You can contact me at [taitran@sandiego.edu](mailto:taitran@sandiego.edu)
 * 🧠  I'm learning html5, css, javascripts, react
 * 🤝  I'm open to collaborating on Frontend projects using react.
-* ⚡  I am a full-time Consulting Engineer specializing in network security, offering expertise in consultation, low-level design, and configuration of network firewalls to protect company networks. In addition to my current role, I am actively seeking remote opportunity in frontend development to further build my knowledge on frontend development. I am eager to expand my skill set from networking to application development, with a focus on building user-friendly, responsive web applications. My goal is to bring a strong technical background and a passion for frontend technologies to a dynamic team, contributing to both security and development initiatives.
+* ⚡  I am a full-time Consulting Engineer specializing in network security, offering expertise in consultation, low-level design, and configuration of network firewalls to protect company networks. I am actively seeking opportunity to develop and expand my frontend knowledge and skill, with a focus on building user-friendly, responsive web applications.
 
 ### Skills
 
