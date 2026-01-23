@@ -1,16 +1,54 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tai〽️
 =============================================================================================================================
 
-Frontend Dev
-------------
+Frontend Dev, AI, Automation
+-------------------------------
 
-I enjoy making beautiful and functional frontend.
+I like to build **network, systems, and security solutions**, along with practical software and automations, to help small businesses and nonprofits solve real operational problems.
+If your organization needs help fixing email issues, automating workflows, or cleaning up Google Workspace, feel free to reach out.
 
 * 🌍  I'm based in San Diego, CA
 * ✉️  You can contact me at [taitran@sandiego.edu](mailto:taitran@sandiego.edu)
-* 🧠  I'm learning html5, css, javascripts, react
-* 🤝  I'm open to collaborating on Frontend projects using react.
-* ⚡  I am a full-time Consulting Engineer specializing in network security, offering expertise in consultation, low-level design, and configuration of network firewalls to protect company networks. I am actively seeking opportunity to develop and expand my frontend knowledge and skill, with a focus on building user-friendly, responsive web applications.
+
+## What I Help With
+
+- **Email deliverability & compliance**
+  - SPF, DKIM, DMARC setup and enforcement
+  - Fixing spam issues and broken unsubscribe flows
+- **Google Workspace architecture**
+  - Shared Drives, groups, permissions, and cleanup
+  - Admin best practices for small organizations
+- **Workflow & process automation**
+  - Google Forms + Apps Script
+  - Automated email notifications and reporting
+- **SaaS & operational cleanup**
+  - Mailchimp audience cleanup and cost reduction
+  - Reducing admin overhead and technical debt
+
+---
+
+## How I Solve Problems (Programming & Automation)
+
+I solve infrastructure and operations issues by writing targeted code and automation, including:
+
+- **Google Apps Script** for workflows, notifications, and integrations
+- **JavaScript & Python** for tooling and automation
+- **API integrations** (Google Workspace, Mailchimp, etc.)
+
+I prefer small, well-scoped solutions that are easy to understand, document, and maintain.
+
+---
+
+## Recent Real-World Work
+
+- Reduced a nonprofit’s Mailchimp cost from **$240 → $163/month** without reducing reach
+- Fixed broken unsubscribe links and email preference workflows
+- Implemented **SPF, DKIM, and DMARC** to improve email deliverability
+- Built Google Forms + Apps Script automation to email PDFs to Google Groups
+- Re-architected Google Shared Drives and permissions for clarity and security
+- Helped small teams clean up years of accumulated Google Workspace sprawl
+
+---
 
 ### Skills
 
