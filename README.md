@@ -47,7 +47,7 @@ I prefer small, well-scoped solutions that are easy to understand, document, and
 
 ---
 
-### Skills
+### Tech Stack
 
 
 <p align="left">
@@ -61,6 +61,8 @@ I prefer small, well-scoped solutions that are easy to understand, document, and
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
+## SaaS
+Google Workspace, Mailchimp
 
 ### Socials
 
