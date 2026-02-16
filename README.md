@@ -38,7 +38,7 @@ I prefer small, well-scoped solutions that are easy to understand, document, and
 
 ## Recent Real-World Work
 
-- Reduced a nonprofit’s Mailchimp cost from **$240 → $163/month** without reducing reach
+- Reduced a nonprofit’s Mailchimp cost from **$240 → $136/month** without reducing reach
 - Fixed broken unsubscribe links and email preference workflows
 - Implemented **SPF, DKIM, and DMARC** to improve email deliverability
 - Built Google Forms + Apps Script automation to email PDFs to Google Groups
