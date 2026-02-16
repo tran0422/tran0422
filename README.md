@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I like to build **network, systems, and security solutions**, along with practical software and automations, to help small businesses and nonprofits solve real operational problems.
 If your organization needs help fixing email issues, automating workflows, or cleaning up Google Workspace, feel free to reach out.
 
-* 🌍  I'm based in San Diego, CA
-* ✉️  You can contact me at [taitran@sandiego.edu](mailto:taitran@sandiego.edu)
+* 🌍  San Diego, CA
+* ✉️  [taitran@sandiego.edu](mailto:taitran@sandiego.edu)
 
 ## What I Help With
 
