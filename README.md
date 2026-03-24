@@ -1,8 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tai〽️
 =============================================================================================================================
 
-I like to build **network, systems, and security solutions**, along with practical software and automations, to help small businesses and nonprofits solve real operational problems.
-If your organization needs help fixing email issues, automating workflows, or cleaning up Google Workspace, feel free to reach out.
+I help small businesses and nonprofits get their system organized, save time, and run smoothly.
+
+I've helped organizations reduce email delivery issues, automate repetitive workflows, organize shared drives, and design clean, easy-to-use websites, and deploy cloud-based systems that enable smarter, automated decision-making.
+
+If your team is struggling with messy systems, inefficient processes, or outdated websites, let's connect and simplify things together 👇
 
 * 🌍  San Diego, CA
 * ✉️  [taitran@sandiego.edu](mailto:taitran@sandiego.edu)
@@ -21,18 +24,21 @@ If your organization needs help fixing email issues, automating workflows, or cl
 - **SaaS & operational cleanup**
   - Mailchimp audience cleanup and cost reduction
   - Reducing admin overhead and technical debt
+- **OpenClaw setup**
+  - Safely deploy OpenClaw in Oracle Cloud
+  - Turn OpenClaw into practical workkflows that reduce repetitive work
+  - Ensure reliable, safe, and well taught agent
 
 ---
 
 ## How I Solve Problems (Programming & Automation)
 
-I solve infrastructure and operations issues by writing targeted code and automation, including:
+I solve infrastructure and operations issues by writing targeted code and automation, focusing on small, well-scoped solutions that are easy to understand, document and maintain.
 
 - **Google Apps Script** for workflows, notifications, and integrations
 - **JavaScript & Python** for tooling and automation
 - **API integrations** (Google Workspace, Mailchimp, etc.)
-
-I prefer small, well-scoped solutions that are easy to understand, document, and maintain.
+- **Agentic AI** (OpenClaw)
 
 ---
 
@@ -59,6 +65,7 @@ I prefer small, well-scoped solutions that are easy to understand, document, and
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+  <a href="https://openclaw.ai/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/openclaw.png" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
 ### SaaS
